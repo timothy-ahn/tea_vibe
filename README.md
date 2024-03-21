@@ -1,30 +1,12 @@
-# tea_vibe
+# TeaVibe
 
-A new Flutter project.
+### TeaVibe Savor the Moment, Share the Brew
 
-## Getting Started
+TeaVibe is your passport to the enchanting world of tea. Immerse yourself in a community of tea enthusiasts, where the joy of sipping tea is elevated by shared experiences and discoveries. From unique blends to global brewing traditions, TeaVibe is your companion in crafting a tea journey that transcends borders.  
 
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
+### Planned features :
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Assets
-
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
-
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
-
-## Localization
-
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
-
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter
-apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+* Tea Discovery Hub
+* Virtual Tea Tasting Event
+* Tea Pairing Guide
+* Local Tea Shop Location
